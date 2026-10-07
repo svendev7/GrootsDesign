@@ -32,7 +32,7 @@ const Footer = () => {
 
         <div className="info-section">
           <div className="info-top">
-            <span>+31(0)61446327</span>
+            <span>+31(0)614463267</span>
             <span>ilse@grootsdesign.com</span>
             <span>KvK: 95130632</span>
             <span>BTW: NL005132315B56</span>
