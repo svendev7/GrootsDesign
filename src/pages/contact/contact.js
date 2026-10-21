@@ -103,7 +103,7 @@ const Contact = () => {
             </p>
             <div className="spacer-50" />
             <p>
-              +31(0)61446327 <br />
+              +31(0)614463267 <br />
               ilse@grootsdesign.com
             </p>
             <div className="spacer-50" />
